@@ -1,0 +1,79 @@
+A Path to Beneficial Superintelligence
+by SingularityNet Ambassadors
+source: https://medium.com/@singularitynetambassadors/a-path-to-beneficial-superintelligence-13ea8dbab2a9
+
+Dr. Ben Goertzel, the founder and CEO of SingularityNET, was welcomed on stage as a leader in artificial general intelligence, robotics, and computational finance research.
+
+He began his speech by expressing how excited he was to be present at the superintelligence summit. Before his presentation, he gave the audience a sneak peek of what was in it for them. What I’m going to talk about is equally exciting, but perhaps a little more predictable. I’m going to talk about what we’re doing with the artificial superintelligence alliance, which aims to build decentralized AI and decentralized AGI. But what I’m going to talk about now is how we went from AI to artificial general intelligence to artificial superintelligence without screwing up our lives and doing so in a way that benefits humans and other sentient beings, Dr. Ben Goertzel.
+
+Press enter or click to view image in full size
+
+He sets the Thames on fire by discussing the history of AI, which started in the 1950s by Sam Altman. According to Dr. Ben, the ideas have been around since before that. He also added that he has been working on AI since 1980 when he started reading about AI at a very young age. Dr. Ben says that artificial intelligence doesn’t have a specific definition. It simply means software or hardware doing stuff that we think is smart. He also describes artificial general intelligence (AGI) as an AI that can generalize and take an imaginative and creative leap beyond its training, programming, and society.
+
+
+Steps Towards Superintelligence
+While many of us are excited and believe we could be just a small number of years away from making AI that can generalize beyond its experience in programming, even better than human beings can, many individuals across multiple borders have been worried that when we get to an AGI or an ASI, it may not find much use for humans.
+
+So, what’s ASI? Artificial superintelligence as described by Dr. Ben Goertzel, basically means an AGI that is way smarter than humans. Dr. Ben also hinted that ASI will have some specific features, such as understanding and analyzing itself quite well, and ASI should be a fantastic programmer.
+
+Dr. Ben Goertzel can already feel that the long-awaited future is just a small number of years of getting to superintelligence, because after a few iterations, AGI can make as many copies of itself, and AGI can make another AGI that’s a little smarter than itself. This is what the mathematician I.J. Good in 1965, called the intelligence explosion.
+
+Press enter or click to view image in full size
+
+The ASI Alliance
+At the Superintelligence Summit, Dr. Ben Goertzel expressed his strong belief that AGI developed democratically and collaboratively, with a diverse group of people working together, is more likely to produce a beneficial value system.
+
+He added that this belief is the main reason he advocates for building AGI on a decentralized platform — a vision he has shared with Trent McConaghy (CEO of Ocean Protocol) for a long time. This shared vision is also the driving force behind the formation of the ASI Alliance, which is a token merger of SingularityNET, Ocean protocol, and Fetch.ai. We have also welcomed a fourth partner into the group, which is CUDOS, a decentralized AI compute provider.
+
+The ASI alliance combines different technologies, different people, and perspectives, but to some extent a shared vision of decentralized AI agents living in different machines around the internet.
+
+Press enter or click to view image in full size
+
+He clears the air by saying that the four projects didn’t merge their companies together in a traditional corporate way. They only merged their tokens together, and into a new token that will be called the ASI token. On the other hand, we are in fact collaborating and having a shared token. So shared tokens give shared incentive for collaboration among the projects, which I think can end up moving us faster toward our shared goals.
+
+Project Deep Dive
+In this paragraph, Dr. Ben Goertzel talks about the different projects that have come together into the ASI alliance, and some of the shared product development initiatives.
+
+He started by introducing SingularityNET, which he co-founded in late 2017, dedicated to the development of decentralized AI agent systems where AI agents can run on different machines scattered all over the planet, coordinated together with no central owner or controller.
+
+Momentarily, he added that recently, the team has been focusing on creating a new AGI toolkit called OpenCog Hyperon. Additionally, we added that there are a significant number of spin-off companies, joint ventures, and partnerships within the SingularityNET ecosystem, all of which are building decentralized AI-based products and all of which are working toward using these cross-paradigm Opencog Hyperon tools to do things such as DeFi, humanoid robotics, medical stuff, music composition, and more!
+
+SingularityNET is focused more on AGI development, while Fetch is focused more on agents that serve as a proxy for a person in doing something. Dr. Ben urges the audiences to visit the Fetch website to see how they’re building AI agents to impact various vertical markets. More so, he talked about Ocean’s protocol’s achievement in the last couple of years, including the predictor products, which have been a major focus in the last couple of years, and he is indeed excited about what they’re building and how productive Ocean is in the current crypto market.
+
+Ben Goertzel also spoke about CUDOS, which has merged into the ASI alliance more recently after the funding. He describes CUDOS as a compute infrastructure with a decentralized network infrastructure layered on top of it. Interestingly, Ben hinted that SingularityNET is building compute infrastructure — supercomputers, which will be added to the existing decentralized compute network to make the infrastructure more and more decentralized.
+
+Some potential benefits of CUDOS
+
+Get SingularityNET Ambassadors’s stories in your inbox
+Join Medium for free to get updates from this writer.
+
+Enter your email
+Subscribe
+SingularityNET’s AI Marketplace now allows developers to host their AI agents directly on the platform, thanks to tools like CUDOS and Singularity Compute. Previously, there was no standardized solution for hosting, leaving AI developers to manage their own servers and cloud infrastructure — a task many found challenging. While AI developers excel at creating intelligent systems, they may not always have the expertise to handle hosting and infrastructure. These new tools simplify the process, making agent hosting more accessible.
+
+Overview of ASI CREATE
+On another note, Dr. Ben Goertzel briefly introduced the ASI Create product, designed by Nick Nayfack, SingularityNET’s Chief Product Officer, who has built a strong reputation in the Cardano community, while also driving product innovation at SingularityNET.
+
+The ASI Create product isn’t about creating Artificial General Intelligence (AGI) just yet, but it’s a significant step toward that goal. ASI Create provides a no-code to low-code platform designed for AI developers who may not have a deep theoretical background. It enables them to easily connect large language models (LLMs) with knowledge graphs, fine-tune the models, and integrate them with either their own knowledge graphs or the ones they upload. While LLMs are powerful and impressive, they have notable limitations. For example, they often hallucinate incorrect information and lack a coherent world model. In contrast, knowledge graphs can store factual data and maintain consistent, logical world models. By connecting an LLM with a knowledge graph, we can address these shortcomings, allowing the model to perform more reliably and intelligently in various contexts.
+
+This approach also enhances creativity. With a knowledge graph providing a factual grounding, an LLM can confidently explore more creative solutions while maintaining accuracy. At SingularityNET, we’ve been working on connecting LLMs with knowledge graphs for some time within our AI team. However, the process has been complex and cumbersome. ASI Create simplifies this, making it accessible to everyday AI developers — those who might be more familiar with writing Python scripts than dealing with intricate integrations. This ease of use is poised to make a significant impact in the AI development community.
+
+The ASI Create platform is a practical demonstration of integrating SingularityNET, Fetch.ai, Ocean Protocol, and CUDOS on the backend. Ocean Protocol is used to manage datasets for LLMs and knowledge graphs, while CUDOS and Singularity compute provide options for hosting these models and graphs. The core training functionality relies on a Fetch core node and a SingularityNET node working together seamlessly in the background. This integration aims to simplify complex backend technologies into a user-friendly and intuitive front-end interface, which I’ll demonstrate briefly.
+
+Additionally, the ASI Learn educational product we’re developing, leverages ASI Create on the backend to offer interactive experiences, such as engaging Telegram users.
+
+While we can’t guarantee the exact timeline, such breakthroughs seem plausible. Achieving human-level AGI would redefine the trajectory of AI growth, far exceeding current projections. This aligns with Ray Kurzweil’s predictions in The Singularity Is Near, although I think even Ray may have been too conservative in some of his estimates. The potential here is vast and transformative.
+
+The Broader Context
+To be honest, I think Ray Kurzweil’s projections in The Singularity Is Near are overly conservative. He predicts we’ll reach human-level AGI by 2029 and ASI, or superhuman intelligence, by 2045. I find it hard to believe there would be a 16-year gap between those milestones. Once we achieve AGI, the transition to ASI is likely to happen much more rapidly. And beyond ASI, who knows what comes next? It could be some form of ultra-intelligence, potentially leveraging concepts like closed timelike loops to process information, using space-time itself as a cognitive substrate. The pace of advancement, once AGI is achieved, will likely accelerate in ways we can hardly imagine today.
+
+As a mathematician, my research focuses on creating a heterogeneous network where various approaches to AGI and ASI can not only coexist but also interoperate closely. Within the ASI Alliance, we’re building a decentralized ecosystem to support diverse pathways to intelligence, Ben Goertzel.
+
+For example, while I don’t believe large language models (LLMs) are the ultimate key to AGI, there’s no reason why we can’t integrate open-source LLMs for learning and inference across the decentralized ASI network. This creates the potential for emergent intelligence — where coordinated activity among AI agents running on the network leads to AGI in an unanticipated way. We’re also exploring world models that move beyond emulating human intelligence. Instead, these models deploy specialized agents like predictors, or more advanced systems, to engage in incentive-driven games. These agents summarize and contribute intelligence to a global brain network, enriching collective knowledge on the internet.
+
+The ASI Alliance advances these diverse approaches within a decentralized, participatory, and democratic software framework. Our tooling ensures these systems interact and potentially accelerate one another, driving an ambitious development roadmap.
+
+Looking Ahead!
+Once ASI Create launches early next year, it will offer a robust decentralized infrastructure for a DApp ecosystem. Developers can deploy their DApps on any machine, connect them via protocol, and seamlessly integrate with the network. To foster adoption, we’ll host more ASI hackathons to onboard developers and collaborate with partners interested in launching ASI accelerators globally. We’re also exploring advanced ideas like the ASI Supernode, a deep AGI processing network on top of the ASI infrastructure.
+
+Lastly, Dr. Ben Goertzel showcases his book “The Consciousness Explosion. “ with Gabriel Axel, a neuroscientist and a guitarist. The book outlines their vision for achieving beneficial AGI and ASI through decentralized networks. Just so you know, there’s a free PDF version online and it can also be purchased in bookshop or Amazon.

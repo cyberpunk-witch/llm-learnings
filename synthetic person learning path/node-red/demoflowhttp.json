@@ -1,0 +1,94 @@
+[
+    {
+        "id": "46297b2ad2ab8013",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "53139ac147103c52",
+        "type": "function",
+        "z": "46297b2ad2ab8013",
+        "name": "function 1",
+        "func": "var dateNow = new Date();\nvar timeAsString = dateNow.toLocaleTimeString();\nmsg.payload = \n              ' The time is ' + \n              timeAsString + '.';                \nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 280,
+        "y": 240,
+        "wires": [
+            [
+                "a5109199c425b9d4",
+                "ba91e161cc0a140a"
+            ]
+        ]
+    },
+    {
+        "id": "63a564f34268d4a8",
+        "type": "http in",
+        "z": "46297b2ad2ab8013",
+        "name": "",
+        "url": "/time",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 180,
+        "wires": [
+            [
+                "53139ac147103c52"
+            ]
+        ]
+    },
+    {
+        "id": "2b2e26d9cd6691a0",
+        "type": "http response",
+        "z": "46297b2ad2ab8013",
+        "name": "current time",
+        "statusCode": "200",
+        "headers": {},
+        "x": 670,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "ba91e161cc0a140a",
+        "type": "template",
+        "z": "46297b2ad2ab8013",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<!DOCTYPE html>\n    <head>\n        <link rel=\"stylesheet\" href=\"style/timestyle.css\">\n        <title>Current Time</title>\n    </head>\n <body>\n <div><span>{{payload}} </span></div>\n <style>\n    body{\n        background-color: black;\n        color: white;\n    }\n </style>\n </body>\n </html>",
+        "output": "str",
+        "x": 500,
+        "y": 280,
+        "wires": [
+            [
+                "2b2e26d9cd6691a0"
+            ]
+        ]
+    },
+    {
+        "id": "a5109199c425b9d4",
+        "type": "debug",
+        "z": "46297b2ad2ab8013",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 620,
+        "y": 200,
+        "wires": []
+    }
+]
